@@ -1,0 +1,5 @@
+Standing->All-fours
+All-fours->Sitting
+Sitting->All-fours
+Sitting->Standing
+Standing->Sitting
